@@ -50,7 +50,7 @@
 </tr>
 </table>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feedofmri" alt="feedofmri" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=feedofmri" alt="feedofmri" /></a> </p>
 
 ---
 
