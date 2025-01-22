@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width = 100px></p>
+<p align="center" ><img  src = "assets/feedofmri_logo.gif" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Md. Rubayet Islam</h1>
 <h3 align="center">Weaving code and creativity to craft something that inspire.</h3>
 
@@ -23,7 +23,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="300" src="assets/feedofmri_logo.gif">
+  <img align="center" alt="Coding" width="270" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
   </td>
 </tr>
