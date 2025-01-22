@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "assets/Feedofmri Logo.gif" width = 100px></p>
+<p align="center" ><img  src = "assets/feedofmri_logo.gif" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Md. Rubayet Islam</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
