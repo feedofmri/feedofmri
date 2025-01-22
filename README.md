@@ -39,7 +39,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=feedofmri&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img src="https://streak-stats.demolab.com?user=feedofmri&theme=dark" alt="feedofmri" />
+  <img align="center" src="https://streak-stats.demolab.com?user=feedofmri&theme=dark" alt="feedofmri" />
 </td>
 <td width="50%" align="center">
 
@@ -97,9 +97,4 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/feedofmri/feedofmri/blob/main/assets/skill-icons/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://github.com/feedofmri/feedofmri/blob/main/assets/skill-icons/icons/Sass.svg" alt="sass" width="50" height="50"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/feedofmri/feedofmri/blob/main/assets/skill-icons/icons/SQLite.svg" alt="sqlite" width="50" height="50"/> </a> </p>
-
----
-
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/feedofmri"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="feedofmri" /></a></p>
 
