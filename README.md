@@ -95,7 +95,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/feedofmri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feedofmri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/feedofmri" target="blank"><img align="center" src="https://github.com/feedofmri/feedofmri/blob/main/assets/skill-icons/icons/LinkedIn.svg" alt="feedofmri" height="30" width="40" /></a>
 <a href="https://www.behance.net/feedofmri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="feedofmri" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@feedofmri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@feedofmri" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/feedofmri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="feedofmri" height="30" width="40" /></a>
