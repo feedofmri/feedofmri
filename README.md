@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on **[Sohojogi](https://github.com/Learnathon-By-Geeky-Solutions/team-synergy)**
 
-- 🌱 I’m currently learning **MERN, Flutter**
+- 🌱 I’m currently learning **Laravel, MERN**
 
 - 💬 Ask me about **C++, Python, Java**
 
