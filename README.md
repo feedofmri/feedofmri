@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on **[Sohojogi](https://github.com/Learnathon-By-Geeky-Solutions/team-synergy)**
+- 🔭 I’m currently working on **[BMS](https://github.com/orgs/BakeryManagementSystem/repositories)**
 
 - 🌱 I’m currently learning **Laravel, MERN**
 
