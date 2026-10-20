@@ -1,68 +1,70 @@
 <div align="center">
 
-<!-- DYNAMIC ANIMATED HERO WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=220&section=header&text=MD.%20RUBAYET%20ISLAM&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=AI%20Systems%20Architect%20%E2%80%A2%20Multi-Agent%20Engineer%20%E2%80%A2%20Creative%20Tech%20Founder&descSize=18&descAlignY=60&descAlign=50&descColor=7dd3fc" width="100%" alt="Md. Rubayet Islam Header" />
-
-<!-- DYNAMIC ANIMATED TYPING HEADER -->
-<a href="https://feedofmri.boraqs.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=780&height=48&lines=🤖+AI+Systems+Architect+%26+Autonomous+Agent+Engineer;🚀+Lead+Software+Architect+%40+Boraq.io;🛒+Founder+%40+Toroongo+(Autonomous+AI+Marketplace);🎬+Creative+Tech+Lead+%40+Rupok+Animation+Studio;🏆+Learnathon+3.0+Champion+(Brain+Station+23);🔬+Co-Principal+Investigator+%40+Project+L.A.S.T.+(ASRG);⭐+Top-Rated+5.0%2F5.0+Full-Stack+Architect+on+Upwork;🛰️+Engineering+Delay-Tolerant+Satellite+LoRa+Mesh" alt="Dynamic Typing Header" />
+<!-- OFFICIAL BRANDING ANIMATED MOTION BANNER -->
+<a href="https://feedofmri.boraq.io">
+  <img src="assets/personal_banner_motion.gif" width="100%" alt="Md. Rubayet Islam — Waving Code & Creativity, Something That Inspires" />
 </a>
 
 <br/>
 
-<!-- QUICK CONNECT & STATUS BADGES -->
+<!-- DYNAMIC ANIMATED TYPING HEADER -->
+<a href="https://feedofmri.boraq.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=45&lines=AI+Systems+Architect+%7C+Autonomous+Agent+Engineer;Lead+Software+Architect+%40+Boraq+(boraq.io);Founder+%40+Toroongo+(AI+Marketplace);Creative+Tech+Lead+%40+Rupok+Studio+(rupok.org);Brain+Station+23+Learnathon+3.0+Champion;Co-PI+%40+Project+L.A.S.T.+(Satellite+LoRa+Mesh);Top-Rated+5.0+Full-Stack+Architect+on+Upwork" alt="Dynamic Typing Header" />
+</a>
+
+<br/>
+
+<!-- OFFICIAL VENTURE & IDENTITY BADGES -->
 <p align="center">
-  <a href="https://feedofmri.boraqs.com"><img src="https://img.shields.io/badge/PORTFOLIO-feedofmri.boraqs.com-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/feedofmri"><img src="https://img.shields.io/badge/LINKEDIN-feedofmri-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/feedofmri"><img src="https://img.shields.io/badge/X-@feedofmri-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:feedofmri0@gmail.com"><img src="https://img.shields.io/badge/EMAIL-feedofmri0@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="assets/Rubayet-Islam-CV.pdf"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD_CV-7928ca?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Download CV" /></a>
+  <a href="https://feedofmri.boraq.io"><img src="https://img.shields.io/badge/PORTFOLIO-feedofmri.boraq.io-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Portfolio" /></a>
+  <a href="https://boraq.io"><img src="https://img.shields.io/badge/STUDIO-boraq.io-0f172a?style=for-the-badge&logo=codepen&logoColor=00f2fe" alt="Boraq" /></a>
+  <a href="https://toroongo.com"><img src="https://img.shields.io/badge/MARKETPLACE-toroongo.com-10b981?style=for-the-badge&logo=shopify&logoColor=white" alt="Toroongo" /></a>
+  <a href="https://rupok.org"><img src="https://img.shields.io/badge/ANIMATION-rupok.org-a855f7?style=for-the-badge&logo=render&logoColor=white" alt="Rupok" /></a>
+  <a href="assets/Rubayet-Islam-CV.pdf"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD_CV-38bdf8?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" /></a>
 </p>
 
-<!-- REALTIME STATUS & METRICS STRIP -->
+<!-- REALTIME STATUS TELEMETRY -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=feedofmri&label=SYSTEM+VISITORS&color=00f2fe&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE%20%2F%2F%20ACTIVE-10b981?style=flat-square&logo=statuspage&logoColor=white" alt="System Status" />
-  <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD%20[GMT%2B6]-38bdf8?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/UPWORK-5.0%20%E2%98%85%20TOP%20RATED-14a800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork Rating" />
+  <img src="https://komarev.com/ghpvc/?username=feedofmri&label=PROFILE+VISITS&color=00f2fe&style=flat-square" alt="Visits" />
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE%20%2F%2F%20ACTIVE-10b981?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD%20[GMT%2B6]-00f2fe?style=flat-square&logo=google-maps&logoColor=black" alt="Location" />
+  <img src="https://img.shields.io/badge/UPWORK-5.0%20%E2%98%85%20TOP%20RATED-14a800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" />
 </p>
+
+<!-- ANIMATED CYBER LASER DIVIDER -->
+<img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
 
 </div>
 
----
-
-### 📡 Terminal Diagnostics `// @feedofmri`
+### 📡 System Diagnostics `// @feedofmri`
 
 ```jsonc
 {
-  "engineer": "Md. Rubayet Islam",
+  "architect": "Md. Rubayet Islam",
   "alias": "feedofmri",
-  "role": "AI Systems Architect • Full-Stack Engineer • Creative Tech Founder",
-  "location": "Dhaka, Bangladesh [GMT+6] (Collaborating Worldwide)",
+  "motto": "Waving Code & Creativity, Something That Inspires",
+  "roles": ["AI Systems Architect", "Lead Software Architect", "Creative Tech Founder"],
+  "headquarters": "Dhaka, Bangladesh [GMT+6] (Engineering Globally)",
   "education": "B.Sc. in Computer Science & Engineering @ AUST (2023 – 2027)",
-  "focus_areas": [
-    "Autonomous Multi-Agent Architectures & LLM Orchestration",
-    "Production RAG Pipelines & Semantic Vector Search (pgvector)",
+  "active_specializations": [
+    "Autonomous Multi-Agent Orchestration & Enterprise LLM Workflows",
+    "Production RAG Pipelines & Semantic Vector Embeddings (pgvector)",
     "Formal Statistical Safety Bounds for AI Code Repair (Undergrad Thesis)",
-    "Delay-Tolerant Satellite LoRa Mesh Networks for Disaster Relief (Project L.A.S.T.)"
+    "Delay-Tolerant Satellite LoRa Mesh Networks for Cyclone Relief (Project L.A.S.T.)"
   ],
-  "production_ventures": [
-    "Boraq (boraq.io) — Full-stack software engineering studio & venture lab",
+  "studios_and_ventures": [
+    "Boraq (boraq.io) — Full-stack software architecture & venture engineering studio",
     "Toroongo (toroongo.com) — Zero-commission multivendor marketplace with AI agents",
     "Rupok (rupok.org) — AI animation & comics studio resurrecting Bengal's folklore"
-  ],
-  "accolades": [
-    "Learnathon 3.0 Champion (Brain Station 23 PLC — Flutter Cross-Platform)",
-    "2× AUST CSE Carnival UI/UX Champion (Carnival 4.0 & 5.0, Runner-up 6.0)",
-    "PBCSF Fintechathon 2026 Finalist (Covenant Guarded AI Agent Wallet)",
-    "Co-PI & Research Grantee (AUST Student Research Grant / Project L.A.S.T.)"
   ]
 }
 ```
 
----
+<div align="center">
+  <img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
+</div>
 
-### 🚀 Flagship Ventures & Ecosystem
+### 🚀 Production Ecosystem & Ventures
 
 <table>
   <tr>
@@ -72,17 +74,17 @@
         <a href="https://boraq.io"><img src="https://img.shields.io/badge/STUDIO-boraq.io-00f2fe?style=flat-square" alt="Boraq" /></a>
       </p>
       <p><b>Lead Software Architect & Founder</b><br/>
-      End-to-end software studio designing, engineering, and deploying full-stack web, mobile, and autonomous AI systems for international clients and venture products.</p>
-      <p><code>React</code> • <code>Node.js</code> • <code>Flutter</code> • <code>AI Agents</code></p>
+      High-craft software studio designing, engineering, and deploying scalable full-stack web, mobile, and autonomous AI systems for international clients and in-house ventures.</p>
+      <p><code>React</code> &bull; <code>Node.js</code> &bull; <code>Flutter</code> &bull; <code>AI Agents</code></p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">🛒 Toroongo Platform</h4>
       <p align="center">
-        <a href="https://toroongo.com"><img src="https://img.shields.io/badge/PLATFORM-toroongo.com-10b981?style=flat-square" alt="Toroongo" /></a>
+        <a href="https://toroongo.com"><img src="https://img.shields.io/badge/MARKETPLACE-toroongo.com-10b981?style=flat-square" alt="Toroongo" /></a>
       </p>
       <p><b>AI Systems Architect & Founder</b><br/>
       Zero-commission multivendor marketplace connecting local merchants directly with buyers, powered by autonomous customer support agents and smart inventory alerts.</p>
-      <p><code>Laravel</code> • <code>FastAPI</code> • <code>Multi-Agent</code> • <code>MySQL</code></p>
+      <p><code>Laravel</code> &bull; <code>FastAPI</code> &bull; <code>Multi-Agent</code> &bull; <code>MySQL</code></p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">🎬 Rupok Studios</h4>
@@ -91,37 +93,39 @@
       </p>
       <p><b>Creative Tech & Direction</b><br/>
       Animation and comics studio bringing Bengal’s epic history and mythic folklore to life across 7 original episodic series, headlined by <i>Bansher Kella</i>.</p>
-      <p><code>AI Animation</code> • <code>Three.js</code> • <code>Story Pipelines</code></p>
+      <p><code>AI Animation</code> &bull; <code>Three.js</code> &bull; <code>Story Pipelines</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" colspan="2">
       <h4>🛡️ Covenant — Guarded AI Agent Smart Wallet</h4>
-      <p><b>International Finalist • PBCSF Fintechathon 2026 (Topic F: Agent Wallet)</b><br/>
+      <p><b>International Finalist &bull; PBCSF Fintechathon 2026 (Topic F: Agent Wallet)</b><br/>
       Autonomous agent smart wallet architecture with cryptographic policy enforcement, risk-tiered agent authorization, and multi-agent consensus verification.</p>
-      <p><code>Autonomous Agents</code> • <code>Fintech</code> • <code>Smart Contracts</code> • <code>Security Bounds</code></p>
+      <p><code>Autonomous Agents</code> &bull; <code>Fintech</code> &bull; <code>Smart Contracts</code> &bull; <code>Formal Safety</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>🛰️ Project L.A.S.T. — Disaster Satellite Mesh</h4>
-      <p><b>Co-Principal Investigator • AUST Student Research Grant (ASRG)</b><br/>
+      <p><b>Co-Principal Investigator &bull; AUST Student Research Grant (ASRG)</b><br/>
       Low-power delay-tolerant IoT mesh network integrating LoRa nodes and low-earth orbit satellite links for life-saving connectivity during cyclone blackouts.</p>
-      <p><code>LoRa Mesh</code> • <code>Satellite IoT</code> • <code>C++</code> • <code>Distributed Systems</code></p>
+      <p><code>LoRa Mesh</code> &bull; <code>Satellite IoT</code> &bull; <code>C++</code> &bull; <code>Distributed Systems</code></p>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
+</div>
 
 ### 🧠 Master Skill Matrix & Technologies
 
 <div align="center">
 
-#### AI Engineering, Autonomous Agents & Machine Learning
+#### AI Systems, Autonomous Agents & Machine Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,postgres,docker,git&theme=dark" alt="AI & ML Stack" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MULTI--AGENT%20SYSTEMS-00F2FE?style=flat-square&logo=openai&logoColor=white" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/MULTI--AGENT%20SYSTEMS-00F2FE?style=flat-square&logo=openai&logoColor=black" alt="Multi-Agent Systems" />
   <img src="https://img.shields.io/badge/RAG%20PIPELINES-4FACFE?style=flat-square&logo=databricks&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/PGVECTOR-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
   <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
@@ -133,12 +137,12 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,express,laravel,supabase,firebase&theme=dark" alt="Full-Stack Stack" />
 </p>
 
-#### Languages & Core Engineering
+#### Core Languages & Systems Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,py,dart,js,ts,bash&theme=dark" alt="Languages" />
 </p>
 
-#### Databases, DevOps & Cloud Systems
+#### Databases, DevOps & Cloud Infrastructure
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,docker,linux,nginx,postman&theme=dark" alt="Databases and DevOps" />
 </p>
@@ -150,23 +154,24 @@
 
 </div>
 
----
+<div align="center">
+  <img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
+</div>
 
-### 📊 Real-Time GitHub Analytics & Activity
+### 📊 Real-Time GitHub Analytics
 
 <div align="center">
 
-<!-- DYNAMIC STATS & STREAK CARDS -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/feedofmri">
-        <img src="https://github-readme-stats.vercel.app/api?username=feedofmri&show_icons=true&theme=tokyonight&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&icon_color=38bdf8&text_color=e2e8f0&hide_border=false&count_private=true" alt="Rubayet's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=feedofmri&show_icons=true&theme=tokyonight&border_color=00f2fe&bg_color=0b1315&title_color=00f2fe&icon_color=38bdf8&text_color=e2e8f0&hide_border=false&count_private=true" alt="Rubayet's GitHub Stats" />
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/feedofmri">
-        <img src="https://streak-stats.demolab.com?user=feedofmri&theme=tokyonight&border=00f2fe&background=0d1117&fire=00f2fe&ring=38bdf8&currStreakLabel=00f2fe&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=feedofmri&theme=tokyonight&border=00f2fe&background=0b1315&fire=00f2fe&ring=38bdf8&currStreakLabel=00f2fe&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak Stats" />
       </a>
     </td>
   </tr>
@@ -174,7 +179,7 @@
     <td colspan="2" align="center" valign="middle">
       <br/>
       <a href="https://github.com/feedofmri">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feedofmri&theme=tokyonight&layout=compact&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=e2e8f0&hide_border=false" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feedofmri&theme=tokyonight&layout=compact&border_color=00f2fe&bg_color=0b1315&title_color=00f2fe&text_color=e2e8f0&hide_border=false" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -182,30 +187,17 @@
 
 </div>
 
----
-
-### 🐍 Contribution Activity Matrix
-
 <div align="center">
-
-<!-- ANIMATED GITHUB CONTRIBUTION SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feedofmri/feedofmri/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/feedofmri/feedofmri/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/feedofmri/feedofmri/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
+  <img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
 </div>
-
----
 
 ### 🏆 Honors & Milestones
 
-| Year | Recognition | Organization / Scope | Category |
+| Year | Recognition | Scope / Organization | Category |
 |:---:|:---|:---|:---|
 | **2026** | 🛡️ **Fintechathon Finalist (Topic F: Agent Wallet)** | PBCSF Fintechathon 2026 | *Autonomous AI Wallets* |
-| **2025** | 🏆 **Champion (Grand Prize BDT 50k)** | Brain Station 23 PLC · Learnathon 3.0 | *Flutter Cross-Platform* |
-| **2025** | 🔬 **AUST Student Research Grant (Co-PI)** | Ahsanullah University · Project L.A.S.T. | *Satellite Mesh & IoT* |
+| **2025** | 🏆 **Learnathon 3.0 Champion (Grand Prize BDT 50k)** | Brain Station 23 PLC | *Flutter Cross-Platform* |
+| **2025** | 🔬 **AUST Student Research Grant (Co-PI)** | Ahsanullah University &bull; Project L.A.S.T. | *Satellite Mesh & IoT* |
 | **2025** | 🌐 **Web Architect Recognition Crest** | National IUPC 2025 (100+ Volunteers) | *Contest Architecture* |
 | **2024** | 🥇 **Champion — Carnival 5.0** | AUST CSE Carnival | *UI/UX Interface Design* |
 | **2024** | 🏅 **General Secretary** | AUSTPIC (Programming & Informatics Club) | *Executive Leadership* |
@@ -220,10 +212,10 @@
 
 | Title | Logline & Context | Format | Status |
 |:---|:---|:---:|:---:|
-| ⚔️ **Bansher Kella** | Titumir and Ghulam Masum rally Bengali villagers to build an organic bamboo fortress that defied British imperial artillery. | *6 Episodes · 18 Mins* | `In Production` |
-| 🌊 **The River Wolves** | Isa Khan unites the Baro-Bhuyan chieftains to outmaneuver the Mughal Empire’s grand fleet on Bengal’s monsoon channels. | *20 Episodes · 2 Seasons* | `In Development` |
-| 🗡️ **The Sultan’s Blade** | In 1342, Iliyas Shah unites the delta into one kingdom, holding the frontier against Delhi’s 90,000-strong army. | *8 Episodes · 24 Mins* | `In Development` |
-| 🐅 **The Tiger’s Pir** | Gazi Pir journeys deep into the Sundarbans wilderness to confront Dakshin Ray, riding out atop a Royal Bengal Tiger. | *5 Episodes · 15 Mins* | `In Development` |
+| ⚔️ **Bansher Kella** | Titumir and Ghulam Masum rally Bengali villagers to build an organic bamboo fortress that defied British imperial artillery. | *6 Episodes &bull; 18 Mins* | `In Production` |
+| 🌊 **The River Wolves** | Isa Khan unites the Baro-Bhuyan chieftains to outmaneuver the Mughal Empire’s grand fleet on Bengal’s monsoon channels. | *20 Episodes &bull; 2 Seasons* | `In Development` |
+| 🗡️ **The Sultan’s Blade** | In 1342, Iliyas Shah unites the delta into one kingdom, holding the frontier against Delhi’s 90,000-strong army. | *8 Episodes &bull; 24 Mins* | `In Development` |
+| 🐅 **The Tiger’s Pir** | Gazi Pir journeys deep into the Sundarbans wilderness to confront Dakshin Ray, riding out atop a Royal Bengal Tiger. | *5 Episodes &bull; 15 Mins* | `In Development` |
 
 </details>
 
@@ -237,14 +229,16 @@
 
 </details>
 
----
+<div align="center">
+  <img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
+</div>
 
 ### 🌐 Connect & Let's Build Something Extraordinary
 
 <div align="center">
 
 <p>
-  <a href="https://feedofmri.boraqs.com"><img src="https://img.shields.io/badge/Website-feedofmri.boraqs.com-00f2fe?style=for-the-badge&logo=firefox-browser&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://feedofmri.boraq.io"><img src="https://img.shields.io/badge/Website-feedofmri.boraq.io-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/feedofmri"><img src="https://img.shields.io/badge/LinkedIn-in%2Ffeedofmri-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/feedofmri"><img src="https://img.shields.io/badge/X-@feedofmri-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://youtube.com/@feedofmri"><img src="https://img.shields.io/badge/YouTube-@feedofmri-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -257,13 +251,8 @@
   <a href="mailto:feedofmri0@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-feedofmri0@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<br/>
-
-<!-- DYNAMIC FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,20,12,6&height=120&section=footer" width="100%" alt="Footer Wave" />
-
 <p align="center">
-  <sub>Crafted with precision by <b>Md. Rubayet Islam</b> (@feedofmri) &bull; Architecting the Future of AI &amp; Software Systems</sub>
+  <sub>Crafted with precision by <b>Md. Rubayet Islam</b> (@feedofmri) &bull; Waving Code &amp; Creativity, Something That Inspires</sub>
 </p>
 
 </div>
