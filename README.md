@@ -55,6 +55,59 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
+### 🏢 The Creative Sanctum &amp; Command Deck `// Inside Md. Rubayet Islam's Workspace`
+
+<div align="center">
+  <a href="https://feedofmri.boraq.io">
+    <img src="assets/workspace_sanctum_motion.gif" width="100%" alt="Md. Rubayet Islam — 3D Isometric Creative Sanctum & High-Tech Workspace" />
+  </a>
+</div>
+
+<br/>
+
+#### 🗺️ Interactive Room Blueprint &amp; Fixtures
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🖥️ The Autonomous Battle Deck</h4>
+      <p>Triple ultrawide curved monitors orchestrating live multi-agent pipelines, LangChain chains, and real-time neural network graph visualizations with electric cyan telemetry.</p>
+      <p><code>Multi-Agent</code> &bull; <code>PyTorch</code> &bull; <code>FastAPI</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🎨 The Rupok Animation Bay</h4>
+      <p>Wacom Cintiq drawing tablet rendering 4K folklore animation keyframes for <i>Bansher Kella</i> and the 7-title mythic epic slate at Rupok Studios.</p>
+      <p><code>AI Animation</code> &bull; <code>Three.js</code> &bull; <code>Figma</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛰️ The Balcony Mesh Gateway</h4>
+      <p>Sleek satellite transceiver dish facing the Dhaka night skyline, transmitting delay-tolerant LoRa data packets to LEO satellites for <i>Project L.A.S.T.</i></p>
+      <p><code>Satellite IoT</code> &bull; <code>LoRa Mesh</code> &bull; <code>C++</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🏆 The Championship Showcase</h4>
+      <p>Shelves lined with the <i>Brain Station 23 Learnathon 3.0 Grand Trophy</i>, dual <i>CSE Carnival UI/UX Champions Cups</i>, and top-rated freelance credentials.</p>
+      <p><code>Learnathon #1</code> &bull; <code>2× UI/UX Gold</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>☕ The Dark Roast Chai Reactor</h4>
+      <p>The perpetual fuel source steaming next to the mechanical keyboard. Converting rich black chai &amp; mathematical bounds into rock-solid production software.</p>
+      <p><code>Mana: 100%</code> &bull; <code>Focus Stream</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤖 Swarm Unit: Agent Alpha</h4>
+      <p>Cute autonomous robotic companion keeping watch over deployment tests, continuous integration runners, and automated security verification.</p>
+      <p><code>Autonomous Companion</code> &bull; <code>24/7 Sentry</code></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
+</div>
+
 ### 🚀 Production Ecosystem &amp; Live Ventures
 
 <table>
@@ -122,6 +175,11 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
 <div align="center">
 
 #### AI Systems, Multi-Agent Orchestration &amp; RAG
+
+<div align="center">
+  <img src="assets/cute_agent_lab.gif" width="100%" alt="Cute Autonomous AI Agent Swarm Lab — Alpha Planner, Beta Builder, Gamma Guardian" />
+</div>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,postgres,docker,git&theme=dark" alt="AI & ML Stack" />
 </p>
