@@ -55,73 +55,94 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🏢 The Creative Sanctum &amp; 24-Hour Cycle `// Real Desk &bull; 7-Act Creative Odyssey`
+### 🏢 The Creative Sanctum &amp; 24-Hour Cycle `// Real Desk &bull; Real Environments &bull; 9-Act Odyssey`
 
 <div align="center">
   <a href="https://feedofmri.boraq.io">
-    <img src="assets/actual_desk_story_loop.gif" width="100%" alt="Md. Rubayet Islam — Actual Desk 7-Act 24-Hour Creative Odyssey & Story Loop" />
+    <img src="assets/actual_desk_story_loop.gif" width="100%" alt="Md. Rubayet Islam — Actual Desk 9-Act 24-Hour Creative Odyssey & Story Loop with In-Between Narrative Bridges" />
   </a>
 </div>
 
 <br/>
 
-#### ⏳ The 7 Acts of Creation `// A Day in the Life of a Creative Technologist`
+#### ⏳ The 9 Chapters of Creation `// A Day in the Life of Md. Rubayet Islam`
 
 <table>
   <tr>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <h4 align="center">🌅 Act 01: Dawn Arrival</h4>
       <p align="center">
-        <img src="assets/story_desk_act1_dawn.jpg" width="100%" alt="Act 1: Dawn Arrival" />
+        <img src="assets/story_odyssey_1_dawn.jpg" width="100%" alt="Act 1: Dawn Arrival" />
       </p>
-      <p><b>07:00 AM &bull; Morning Spark:</b> Golden sunlight streams into the room. Entering with fresh dark roast chai, pulling up the ergonomic mesh chair. The workstation wakes: <code>BOOTING MRI KERNEL // DHAKA 07:00 AM</code> as Agent Alpha rubs its eyes awake.</p>
+      <p><b>07:00 AM &bull; The Sanctum:</b> Golden morning sunlight streams into the room. Entering with fresh dark roast chai, pulling up the ergonomic mesh chair. Workstation wakes: <code>BOOTING MRI KERNEL // DHAKA 07:00 AM</code> as Agent Alpha rubs its eyes awake.</p>
     </td>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <h4 align="center">⚡ Act 02: Deep Flow</h4>
       <p align="center">
-        <img src="assets/story_desk_act2_code.jpg" width="100%" alt="Act 2: Deep Flow" />
+        <img src="assets/story_odyssey_2_code.jpg" width="100%" alt="Act 2: Deep Flow" />
       </p>
       <p><b>09:30 AM &bull; High Velocity:</b> Headphones on, clacking mechanical keyboard. Orchestrating autonomous multi-agent pipelines, LangChain chains, and pgvector embeddings for Boraq and Toroongo.</p>
     </td>
-    <td width="25%" valign="top">
-      <h4 align="center">🔬 Act 03: Standing Research</h4>
+    <td width="33%" valign="top">
+      <h4 align="center">🏛️ Act 03: AUST Campus</h4>
       <p align="center">
-        <img src="assets/story_desk_act3_research.jpg" width="100%" alt="Act 3: Standing Research" />
+        <img src="assets/story_odyssey_3_aust.jpg" width="100%" alt="Act 3: AUST Campus" />
       </p>
-      <p><b>01:30 PM &bull; Formal Science:</b> Stepping up from the chair with research binder in hand. Deriving statistical safety bounds and conformal prediction distributions for <i>Certified Patch Acceptance</i>.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h4 align="center">💡 Act 04: The Chai Spark</h4>
-      <p align="center">
-        <img src="assets/story_desk_act4_eureka.jpg" width="100%" alt="Act 4: The Chai Spark" />
-      </p>
-      <p><b>06:45 PM &bull; The Breakthrough:</b> Pacing with hot chai at twilight. The "Aha!" moment connects distributed systems with Bengal folklore storyboards (<i>Bansher Kella</i>) at Rupok Studios.</p>
+      <p><b>11:30 AM &bull; University Lab:</b> Walking up the iconic grand entrance staircase of <i>Ahsanullah University of Science and Technology (AUST)</i> under the white pergola and vines, research binder in hand to collaborate with fellow engineers.</p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center">🛰️ Act 05: Satellite Mesh Transmission</h4>
+      <h4 align="center">🐅 Act 04: Bengal Folklore</h4>
       <p align="center">
-        <img src="assets/story_desk_act5_satellite.jpg" width="100%" alt="Act 5: Satellite Mesh" />
+        <img src="assets/story_odyssey_4_heritage.jpg" width="100%" alt="Act 4: Bengal Folklore" />
       </p>
-      <p><b>09:30 PM &bull; Deep-Tech Orbital Link:</b> Leaning over hardware breadboards and LoRa transceivers for <i>Project L.A.S.T.</i> Tracking a LEO satellite pass over the Bay of Bengal, beaming emergency survival packets through cyclone blackouts.</p>
+      <p><b>03:30 PM &bull; River Inspiration:</b> Standing on the wooden pier at golden sunset, sketching animation keyframes on a digital tablet as traditional wooden boats drift past the majestic bamboo fortress (<i>Bansher Kella</i>) at Rupok Studios.</p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🚀 Act 06: Midnight Victory</h4>
+      <h4 align="center">🔬 Act 05: Scientific Proof</h4>
       <p align="center">
-        <img src="assets/story_desk_act6_victory.jpg" width="100%" alt="Act 6: Midnight Victory" />
+        <img src="assets/story_odyssey_5_research.jpg" width="100%" alt="Act 5: Scientific Proof" />
       </p>
-      <p><b>01:00 AM &bull; 100% Shipped:</b> Midnight over Dhaka. Dual monitors flash emerald green: <code>ALL TESTS PASSED // SHIPPED TO PRODUCTION 100%</code>. Grinning proudly and high-fiving Agent Alpha!</p>
+      <p><b>06:00 PM &bull; Formal Bounds:</b> Back at the desk, pen in hand. Deriving statistical safety guarantees and conformal prediction distributions for <i>Certified Patch Acceptance</i> as Agent Alpha projects a 3D hologram data surface.</p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🌌 Act 07: Silent Sanctuary</h4>
+      <h4 align="center">🛰️ Act 06: Satellite Mesh</h4>
       <p align="center">
-        <img src="assets/story_desk_act7_sleep.jpg" width="100%" alt="Act 7: Silent Sanctuary" />
+        <img src="assets/story_odyssey_6_satellite.jpg" width="100%" alt="Act 6: Satellite Mesh" />
       </p>
-      <p><b>02:30 AM &bull; Guardian Sleep:</b> Cozy hoodie draped over the chair. Monitor sleeps at <code>02:30 AM // STANDING BY</code> while Agent Alpha snoozes on the desk pad. The neon <code>[MRI]</code> sign glows peacefully until dawn.</p>
+      <p><b>09:30 PM &bull; Space Lifeline:</b> Testing IoT breadboards and LoRa transceivers for <i>Project L.A.S.T.</i> Tracking a low-earth orbit satellite pass over the Bay of Bengal, delivering emergency survival packets through cyclone blackouts.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🚀 Act 07: Production Ship</h4>
+      <p align="center">
+        <img src="assets/story_odyssey_7_victory.jpg" width="100%" alt="Act 7: Production Ship" />
+      </p>
+      <p><b>01:00 AM &bull; 100% Shipped:</b> Midnight over Dhaka. Dual monitors flash emerald green: <code>ALL TESTS PASSED // SHIPPED TO PRODUCTION 100%</code>. Grinning with satisfaction, thumbs up, and high-fiving Agent Alpha!</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🌌 Act 08: The Rooftop Horizon</h4>
+      <p align="center">
+        <img src="assets/story_odyssey_8_rooftop.jpg" width="100%" alt="Act 8: The Rooftop Horizon" />
+      </p>
+      <p><b>02:00 AM &bull; The Inspiring Climax:</b> Standing on the open rooftop overlooking the glittering Dhaka skyline and parliament lake under the stars. The <code>[MRI]</code> constellation shines bright: <i>"Waving Code &amp; Creativity, Something That Inspires."</i></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">✨ Act 09: Silent Sanctuary</h4>
+      <p align="center">
+        <img src="assets/story_odyssey_9_sleep.jpg" width="100%" alt="Act 9: Silent Sanctuary" />
+      </p>
+      <p><b>02:45 AM &bull; Guardian Rest:</b> Cozy hoodie draped over the mesh chair. Workstation sleeps peacefully at <code>02:45 AM // STANDING BY</code> as Agent Alpha curls up on the desk mat with <code>zzz</code>, the cyan neon shining until tomorrow.</p>
     </td>
   </tr>
 </table>
+
+> [!TIP]
+> ### 🌟 The Creative Mantra
+> *"We don't build software just to solve technical problems. We wave code and creativity to touch real human lives—from the halls of AUST, to the folklore of our ancestors, to emergency relief on coastal islands. Build with purpose. Build something that inspires."*
+> &mdash; **Md. Rubayet Islam** (`@feedofmri`)
 
 <div align="center">
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
