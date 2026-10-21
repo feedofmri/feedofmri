@@ -36,7 +36,7 @@
 
 </div>
 
-### 🧬 Creative Technologist &amp; Architect DNA
+<h3 align="center">🧬 Creative Technologist &amp; Architect DNA</h3>
 
 ```yaml
 # ~/feedofmri/creative_dna.yaml
@@ -55,7 +55,7 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🏢 The Creative Sanctum &amp; 24-Hour Odyssey `// Real Battlestation &bull; Real Environments`
+<h3 align="center">🌌 The Creative Odyssey</h3>
 
 <div align="center">
   <a href="https://feedofmri.boraq.io">
@@ -80,7 +80,7 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🚀 Production Ecosystem &amp; Live Ventures
+<h3 align="center">🚀 Production Ecosystem &amp; Live Ventures</h3>
 
 <table>
   <tr>
@@ -115,7 +115,7 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <tr>
     <td width="50%" valign="top" colspan="2">
       <h4>🛡️ Covenant — Guarded AI Agent Smart Wallet</h4>
-      <p><b>International Finalist &bull; PBCSF Fintechathon 2026 (Topic F: Agent Wallet)</b><br/>
+      <p><b>Autonomous AI Systems &bull; Cryptographic Safety Enforcement</b><br/>
       Autonomous agent smart wallet architecture with cryptographic policy enforcement, risk-tiered agent authorization, and multi-agent consensus verification.</p>
       <p><code>Autonomous Agents</code> &bull; <code>Fintech</code> &bull; <code>Smart Contracts</code> &bull; <code>Formal Safety</code></p>
     </td>
@@ -132,7 +132,7 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🚴 The Milestone Journey in Motion `// 2020 ➔ 2027`
+<h3 align="center">🚴 The Milestone Journey in Motion `// 2020 ➔ 2027`</h3>
 
 <div align="center">
   <img src="assets/journey_cycle.gif" width="100%" alt="Md. Rubayet Islam — Milestone Journey Cyclist Animation" />
@@ -142,7 +142,7 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🧠 Master Skill Matrix &amp; Technologies
+<h3 align="center">🧠 Master Skill Matrix &amp; Technologies</h3>
 
 <div align="center">
 
@@ -186,7 +186,7 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 📊 Real-Time GitHub Analytics &amp; Activity
+<h3 align="center">📊 Real-Time GitHub Analytics &amp; Activity</h3>
 
 <div align="center">
 
@@ -219,11 +219,10 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🏆 Honors &amp; Milestones
+<h3 align="center">🏆 Honors &amp; Milestones</h3>
 
 | Year | Recognition | Scope / Organization | Category |
 |:---:|:---|:---|:---|
-| **2026** | 🛡️ **Fintechathon Finalist (Topic F: Agent Wallet)** | PBCSF Fintechathon 2026 | *Autonomous AI Wallets* |
 | **2025** | 🏆 **Learnathon 3.0 Champion (Grand Prize BDT 50k)** | Brain Station 23 PLC | *Flutter Cross-Platform* |
 | **2025** | 🔬 **AUST Student Research Grant (Co-PI)** | Ahsanullah University &bull; Project L.A.S.T. | *Satellite Mesh &amp; IoT* |
 | **2025** | 🌐 **Web Architect Recognition Crest** | National IUPC 2025 (100+ Volunteers) | *Contest Architecture* |
@@ -259,7 +258,7 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🌐 Connect &amp; Let's Build Something Extraordinary
+<h3 align="center">🌐 Connect &amp; Let's Build Something Extraordinary</h3>
 
 <div align="center">
 
