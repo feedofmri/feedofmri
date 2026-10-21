@@ -63,118 +63,105 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
 
 <br/>
 
-#### ⏳ The 13 Chapters of Creation `// A Day in the Life of Md. Rubayet Islam`
+#### ⏳ The 11 Chapters of Creation `// A Day in the Life of Md. Rubayet Islam`
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h4 align="center">🌅 Act 01: Dawn Arrival</h4>
       <p align="center">
-        <img src="assets/story_odyssey_1_dawn.jpg" width="100%" alt="Act 1" />
+        <img src="assets/story_01_dawn_arrival.jpg" width="100%" alt="Act 1: Dawn Arrival" />
       </p>
-      <p><b>07:00 AM &bull; The Sanctum:</b> Morning sun streams into the room. Entering with fresh dark roast chai, waking the battlestation: <code>BOOTING MRI KERNEL // DHAKA</code> as Agent Alpha stretches awake.</p>
+      <p><b>07:00 AM &bull; The Sanctum:</b> Morning sun streams into the room. Entering with steaming hot dark roast chai, waking the battlestation: <code>BOOTING MRI KERNEL // DHAKA</code> as companion Agent Alpha stretches awake.</p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">⚡ Act 02: Deep Flow</h4>
       <p align="center">
-        <img src="assets/story_odyssey_2_code.jpg" width="100%" alt="Act 2" />
+        <img src="assets/story_02_seated_flow.jpg" width="100%" alt="Act 2: Deep Flow" />
       </p>
-      <p><b>09:30 AM &bull; High Velocity:</b> Mechanical keyboard clacking. Orchestrating autonomous multi-agent pipelines, LangChain chains, and pgvector embeddings for Boraq &amp; Toroongo.</p>
+      <p><b>09:30 AM &bull; High Velocity:</b> Mechanical keyboard clacking at the authentic dual-display desk. Orchestrating autonomous multi-agent pipelines, LangChain swarms, and pgvector embeddings for Boraq &amp; Toroongo.</p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">🏛️ Act 03: AUST Campus</h4>
       <p align="center">
-        <img src="assets/story_odyssey_3_aust.jpg" width="100%" alt="Act 3" />
+        <img src="assets/story_03_aust_campus.jpg" width="100%" alt="Act 3: AUST Campus" />
       </p>
-      <p><b>11:30 AM &bull; University Lab:</b> Walking up the iconic grand entrance staircase of <i>Ahsanullah University of Science and Technology (AUST)</i> under the white pergola and hanging vines.</p>
+      <p><b>11:30 AM &bull; University Lab:</b> Walking up the grand entrance staircase of <i>Ahsanullah University of Science and Technology (AUST)</i> under the white pergola and hanging vines, collaborating with computer science researchers.</p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center">🎬 Act 04: Rupok Animation Forge</h4>
+      <h4 align="center">🔬 Act 04: Standing Research</h4>
       <p align="center">
-        <img src="assets/rupok_animation_forge.jpg" width="100%" alt="Act 4" />
+        <img src="assets/story_04_standing_research.jpg" width="100%" alt="Act 4: Standing Research" />
       </p>
-      <p><b>02:00 PM &bull; The Studio Deck:</b> Reviewing the 7 original Bengal mythic series lightboxes, 4K timeline scrub bars, and character turnaround model sheets at Rupok Studios.</p>
+      <p><b>02:30 PM &bull; Formal Bounds:</b> Back at the desk, switching to standing posture. Deriving statistical safety bounds and conformal prediction distributions for <i>Certified Patch Acceptance</i> across autonomous swarms.</p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🐅 Act 05: Bengal Folklore</h4>
+      <h4 align="center">💡 Act 05: The Chai Spark</h4>
       <p align="center">
-        <img src="assets/story_odyssey_4_heritage.jpg" width="100%" alt="Act 5" />
+        <img src="assets/story_05_chai_eureka.jpg" width="100%" alt="Act 5: The Chai Spark" />
       </p>
-      <p><b>03:30 PM &bull; River Inspiration:</b> Standing on the wooden pier at golden sunset, sketching animation keyframes as traditional wooden boats drift past the bamboo fortress (<i>Bansher Kella</i>).</p>
+      <p><b>04:30 PM &bull; The Eureka Moment:</b> Pacing with fresh chai. The breakthrough strikes—synthesizing distributed systems architecture with Bengal folklore storyboards and interactive narrative engines.</p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">💡 Act 06: The Chai Spark</h4>
+      <h4 align="center">🐅 Act 06: Bengal Roots</h4>
       <p align="center">
-        <img src="assets/story_desk_act3.jpg" width="100%" alt="Act 6" />
+        <img src="assets/story_06_bengal_heritage.jpg" width="100%" alt="Act 6: Bengal Roots" />
       </p>
-      <p><b>05:00 PM &bull; The Eureka Moment:</b> Pacing with hot chai. The breakthrough strikes—connecting deep distributed systems architecture with Bengal folklore storyboards.</p>
+      <p><b>06:30 PM &bull; River Inspiration:</b> Standing on the wooden pier at golden sunset, sketching animation keyframes as traditional wooden boats drift past the bamboo fortress (<i>Bansher Kella</i>), anchoring technology in culture.</p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center">🔬 Act 07: Scientific Proof</h4>
+      <h4 align="center">🛰️ Act 07: Satellite Mesh</h4>
       <p align="center">
-        <img src="assets/story_odyssey_5_research.jpg" width="100%" alt="Act 7" />
-      </p>
-      <p><b>06:30 PM &bull; Formal Bounds:</b> Back at the desk, deriving statistical safety bounds and conformal prediction distributions for <i>Certified Patch Acceptance</i> with 3D holograms.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🏢 Act 08: Command Center</h4>
-      <p align="center">
-        <img src="assets/workspace_sanctum_authentic.jpg" width="100%" alt="Act 8" />
-      </p>
-      <p><b>08:00 PM &bull; The Full Sanctum:</b> Multi-screen battlestation overlooking twilight Dhaka, preparing telemetry across commercial platforms and space-tech nodes.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🛰️ Act 09: Satellite Mesh</h4>
-      <p align="center">
-        <img src="assets/story_odyssey_6_satellite.jpg" width="100%" alt="Act 9" />
+        <img src="assets/story_07_satellite_mesh.jpg" width="100%" alt="Act 7: Satellite Mesh" />
       </p>
       <p><b>09:30 PM &bull; Space Lifeline:</b> Testing IoT breadboards &amp; LoRa transceivers for <i>Project L.A.S.T.</i> Tracking LEO satellite pass delivering emergency disaster packets over the Bay of Bengal.</p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
-      <h4 align="center">🚀 Act 10: Production Ship</h4>
+      <h4 align="center">🚀 Act 08: Production Ship</h4>
       <p align="center">
-        <img src="assets/story_odyssey_7_victory.jpg" width="100%" alt="Act 10" />
+        <img src="assets/story_08_midnight_ship.jpg" width="100%" alt="Act 8: Production Ship" />
       </p>
-      <p><b>01:00 AM &bull; 100% Shipped:</b> Midnight over Dhaka. Monitors flash emerald: <code>ALL TESTS PASSED // SHIPPED TO PRODUCTION 100%</code>. Thumbs up, high-fiving Agent Alpha!</p>
+      <p><b>01:00 AM &bull; 100% Shipped:</b> Midnight over Dhaka. Monitors flash emerald: <code>ALL TESTS PASSED // SHIPPED TO PRODUCTION 100%</code>. Thumbs up, celebrating and high-fiving Agent Alpha!</p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🌌 Act 11: The Rooftop Horizon</h4>
+      <h4 align="center">🌌 Act 09: Starlit Horizons</h4>
       <p align="center">
-        <img src="assets/story_odyssey_8_rooftop.jpg" width="100%" alt="Act 11" />
+        <img src="assets/story_09_rooftop_inspire.jpg" width="100%" alt="Act 9: Starlit Horizons" />
       </p>
-      <p><b>02:00 AM &bull; The Horizon Climax:</b> Standing on the open rooftop terrace overlooking Dhaka under the stars. The <code>[MRI]</code> constellation shines: <i>"Something That Inspires."</i></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">📜 Act 12: The Visitor Manifesto</h4>
-      <p align="center">
-        <img src="assets/story_manifesto_card.jpg" width="100%" alt="Act 12" />
-      </p>
-      <p><b>02:30 AM &bull; The Learning Outcome:</b> Core lessons for builders: Own the whole loop, unite mathematical rigor with art, and code for real human hands.</p>
+      <p><b>02:00 AM &bull; Horizon Climax:</b> Standing on the open rooftop terrace overlooking Dhaka under the stars. The <code>[MRI]</code> constellation shines bright: <i>"Something That Inspires."</i></p>
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top" colspan="3">
-      <h4 align="center">✨ Act 13: Silent Sanctuary &amp; Guardian Rest</h4>
+    <td width="33%" valign="top">
+      <h4 align="center">✨ Act 10: Sanctuary Rest</h4>
       <p align="center">
-        <img src="assets/story_odyssey_9_sleep.jpg" width="60%" alt="Act 13" />
+        <img src="assets/story_10_peaceful_sleep.jpg" width="100%" alt="Act 10: Sanctuary Rest" />
       </p>
-      <p align="center"><b>03:00 AM &bull; Standing By:</b> Cozy hoodie draped over the chair. Workstation sleeps peacefully at <code>03:00 AM // STANDING BY</code> as Agent Alpha curls up on the desk pad with <code>zzz</code>, the cyan neon shining until dawn.</p>
+      <p><b>03:00 AM &bull; Standing By:</b> Workstation sleeps peacefully at <code>03:00 AM // STANDING BY</code> as Agent Alpha curls up on the desk pad with <code>zzz</code>, the cyan neon shining until dawn.</p>
+    </td>
+    <td width="66%" valign="top" colspan="2">
+      <h4 align="center">📜 Finale: The Visitor Inspirational Outcome Manifesto</h4>
+      <p align="center">
+        <img src="assets/story_manifesto_card.jpg" width="100%" alt="The Visitor Outcome Manifesto" />
+      </p>
+      <p><b>03:30 AM &bull; The Learning Outcome for Builders:</b> Core lessons distilled from the laboratory—Own the whole loop, prove rigor to liberate art, and always engineer for real human hands.</p>
     </td>
   </tr>
 </table>
 
 > [!TIP]
-> ### 🌟 The Visitor's Manifesto &amp; Creative Outcome
-> *"We don't build software just to solve technical problems. We wave code and creativity to touch real human lives—from the halls of AUST, to the folklore of our ancestors, to emergency relief on coastal islands.*
-> *1. **Own the whole loop**: When you master design, system architecture, and code, no vision gets lost in translation.*
-> *2. **Rigor gives wings to art**: Formal mathematical proofs provide truth; cultural soul gives software heart.*
-> *3. **Code for real hands**: If it doesn't spark human awe or ship to production, why build it? Build something that inspires."*
+> ### 🌟 The Visitor's Manifesto &amp; Inspirational Learning Outcome
+> *"We do not build software just to chase fleeting hype. We weave code, mathematical truth, and human imagination to touch real lives—from university halls and coastal disaster zones to the enduring folklore of Bengal.*
+> 
+> * **01. Own the Whole Loop:** When you master the mathematics, the interface, and the autonomous deployment, no vision gets lost in translation.
+> * **02. Rigor Gives Wings to Art:** Statistical safety bounds and formal verification don't constrain imagination—they turn daring dreams into dependable reality.
+> * **03. Code for Real Human Hands:** Whether helping local merchants succeed or routing emergency cyclone distress signals, build tools that dignify and elevate human life.
+> 
+> **Guiding Principle:** *“We do not build machines to replace the human soul; we build them so human imagination can reach the stars.”*
 > &mdash; **Md. Rubayet Islam** (`@feedofmri`)
 
 <div align="center">
