@@ -55,51 +55,47 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🏢 The Creative Sanctum &amp; Command Deck `// Inside Md. Rubayet Islam's Workspace`
+### 🏢 The Creative Sanctum &amp; Daily Routine `// Real Desk &bull; 1-Minute Creative Story Loop`
 
 <div align="center">
   <a href="https://feedofmri.boraq.io">
-    <img src="assets/workspace_sanctum_motion.gif" width="100%" alt="Md. Rubayet Islam — 3D Isometric Creative Sanctum & High-Tech Workspace" />
+    <img src="assets/actual_desk_story_loop.gif" width="100%" alt="Md. Rubayet Islam — Actual Desk 1-Minute Creative Routine & Story Loop" />
   </a>
 </div>
 
 <br/>
 
-#### 🗺️ Interactive Room Blueprint &amp; Fixtures
+#### ⏳ The 4 Acts of Creation `// From Mathematical Bound to Production Ship`
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h4>🖥️ The Autonomous Battle Deck</h4>
-      <p>Triple ultrawide curved monitors orchestrating live multi-agent pipelines, LangChain chains, and real-time neural network graph visualizations with electric cyan telemetry.</p>
-      <p><code>Multi-Agent</code> &bull; <code>PyTorch</code> &bull; <code>FastAPI</code></p>
+    <td width="25%" valign="top">
+      <h4 align="center">⚡ Act 01: Seated Flow</h4>
+      <p align="center">
+        <img src="assets/story_desk_act1.jpg" width="100%" alt="Act 1" />
+      </p>
+      <p><b>Waking the Stack:</b> Headphones on, dark roast chai steaming, mechanical keyboard clacking. Orchestrating autonomous multi-agent pipelines and reactive frontends for Boraq &amp; Toroongo.</p>
     </td>
-    <td width="33%" valign="top">
-      <h4>🎨 The Rupok Animation Bay</h4>
-      <p>Wacom Cintiq drawing tablet rendering 4K folklore animation keyframes for <i>Bansher Kella</i> and the 7-title mythic epic slate at Rupok Studios.</p>
-      <p><code>AI Animation</code> &bull; <code>Three.js</code> &bull; <code>Figma</code></p>
+    <td width="25%" valign="top">
+      <h4 align="center">🔬 Act 02: Standing Research</h4>
+      <p align="center">
+        <img src="assets/story_desk_act2.jpg" width="100%" alt="Act 2" />
+      </p>
+      <p><b>Rigorous Science:</b> Standing up from the ergonomic mesh chair, pen in hand. Deriving formal statistical safety bounds and conformal prediction models for Certified Patch Acceptance.</p>
     </td>
-    <td width="33%" valign="top">
-      <h4>🛰️ The Balcony Mesh Gateway</h4>
-      <p>Sleek satellite transceiver dish facing the Dhaka night skyline, transmitting delay-tolerant LoRa data packets to LEO satellites for <i>Project L.A.S.T.</i></p>
-      <p><code>Satellite IoT</code> &bull; <code>LoRa Mesh</code> &bull; <code>C++</code></p>
+    <td width="25%" valign="top">
+      <h4 align="center">🎨 Act 03: The Chai Spark</h4>
+      <p align="center">
+        <img src="assets/story_desk_act3.jpg" width="100%" alt="Act 3" />
+      </p>
+      <p><b>Creative Synthesis:</b> Pacing with hot chai. The "Aha!" moment connects deep distributed systems with Bengal folklore storyboards (<i>Bansher Kella</i>) at Rupok Studios.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🏆 The Championship Showcase</h4>
-      <p>Shelves lined with the <i>Brain Station 23 Learnathon 3.0 Grand Trophy</i>, dual <i>CSE Carnival UI/UX Champions Cups</i>, and top-rated freelance credentials.</p>
-      <p><code>Learnathon #1</code> &bull; <code>2× UI/UX Gold</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>☕ The Dark Roast Chai Reactor</h4>
-      <p>The perpetual fuel source steaming next to the mechanical keyboard. Converting rich black chai &amp; mathematical bounds into rock-solid production software.</p>
-      <p><code>Mana: 100%</code> &bull; <code>Focus Stream</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🤖 Swarm Unit: Agent Alpha</h4>
-      <p>Cute autonomous robotic companion keeping watch over deployment tests, continuous integration runners, and automated security verification.</p>
-      <p><code>Autonomous Companion</code> &bull; <code>24/7 Sentry</code></p>
+    <td width="25%" valign="top">
+      <h4 align="center">🚀 Act 04: Midnight Victory</h4>
+      <p align="center">
+        <img src="assets/story_desk_act4.jpg" width="100%" alt="Act 4" />
+      </p>
+      <p><b>Shipping to Prod:</b> Back in the zone under the neon <code>[MRI]</code> glow. All unit &amp; regression tests pass 100%. Code deployed to live production. High-five with Agent Alpha!</p>
     </td>
   </tr>
 </table>
@@ -207,6 +203,13 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
 </p>
 
 #### Creative Tech, Motion &amp; UI/UX Craft
+
+<div align="center">
+  <a href="https://rupok.org">
+    <img src="assets/rupok_animation_forge.jpg" width="100%" alt="Rupok Studios — Bengal Folklore Animation & Story Forge" />
+  </a>
+</div>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps,threejs,ae,pr&theme=dark" alt="Design and Creative Tech" />
 </p>
