@@ -53,105 +53,17 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
 
 <div align="center">
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
-</d### 🏢 The Creative Sanctum &amp; 24-Hour Cycle `// Real Desk &bull; Real Environments &bull; 13-Chapter Epic Odyssey`
+</div>
+
+### 🏢 The Creative Sanctum &amp; 24-Hour Odyssey `// Real Battlestation &bull; Real Environments`
 
 <div align="center">
   <a href="https://feedofmri.boraq.io">
-    <img src="assets/actual_desk_story_loop.gif" width="100%" alt="Md. Rubayet Islam — Actual Desk 13-Chapter 24-Hour Creative Odyssey with Narrative In-Between Bridges & Manifesto" />
+    <img src="assets/actual_desk_story_loop.gif" width="100%" alt="Md. Rubayet Islam — Actual Desk 24-Hour Creative Odyssey" />
   </a>
 </div>
 
 <br/>
-
-#### ⏳ The 11 Chapters of Creation `// A Day in the Life of Md. Rubayet Islam`
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🌅 Act 01: Dawn Arrival</h4>
-      <p align="center">
-        <img src="assets/story_01_dawn_arrival.jpg" width="100%" alt="Act 1: Dawn Arrival" />
-      </p>
-      <p><b>07:00 AM &bull; The Sanctum:</b> Morning sun streams into the room. Entering with steaming hot dark roast chai, waking the battlestation: <code>BOOTING MRI KERNEL // DHAKA</code> as companion Agent Alpha stretches awake.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">⚡ Act 02: Deep Flow</h4>
-      <p align="center">
-        <img src="assets/story_02_seated_flow.jpg" width="100%" alt="Act 2: Deep Flow" />
-      </p>
-      <p><b>09:30 AM &bull; High Velocity:</b> Mechanical keyboard clacking at the authentic dual-display desk. Orchestrating autonomous multi-agent pipelines, LangChain swarms, and pgvector embeddings for Boraq &amp; Toroongo.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🏛️ Act 03: AUST Campus</h4>
-      <p align="center">
-        <img src="assets/story_03_aust_campus.jpg" width="100%" alt="Act 3: AUST Campus" />
-      </p>
-      <p><b>11:30 AM &bull; University Lab:</b> Walking up the grand entrance staircase of <i>Ahsanullah University of Science and Technology (AUST)</i> under the white pergola and hanging vines, collaborating with computer science researchers.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🔬 Act 04: Standing Research</h4>
-      <p align="center">
-        <img src="assets/story_04_standing_research.jpg" width="100%" alt="Act 4: Standing Research" />
-      </p>
-      <p><b>02:30 PM &bull; Formal Bounds:</b> Back at the desk, switching to standing posture. Deriving statistical safety bounds and conformal prediction distributions for <i>Certified Patch Acceptance</i> across autonomous swarms.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">💡 Act 05: The Chai Spark</h4>
-      <p align="center">
-        <img src="assets/story_05_chai_eureka.jpg" width="100%" alt="Act 5: The Chai Spark" />
-      </p>
-      <p><b>04:30 PM &bull; The Eureka Moment:</b> Pacing with fresh chai. The breakthrough strikes—synthesizing distributed systems architecture with Bengal folklore storyboards and interactive narrative engines.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🐅 Act 06: Bengal Roots</h4>
-      <p align="center">
-        <img src="assets/story_06_bengal_heritage.jpg" width="100%" alt="Act 6: Bengal Roots" />
-      </p>
-      <p><b>06:30 PM &bull; River Inspiration:</b> Standing on the wooden pier at golden sunset, sketching animation keyframes as traditional wooden boats drift past the bamboo fortress (<i>Bansher Kella</i>), anchoring technology in culture.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🛰️ Act 07: Satellite Mesh</h4>
-      <p align="center">
-        <img src="assets/story_07_satellite_mesh.jpg" width="100%" alt="Act 7: Satellite Mesh" />
-      </p>
-      <p><b>09:30 PM &bull; Space Lifeline:</b> Testing IoT breadboards &amp; LoRa transceivers for <i>Project L.A.S.T.</i> Tracking LEO satellite pass delivering emergency disaster packets over the Bay of Bengal.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🚀 Act 08: Production Ship</h4>
-      <p align="center">
-        <img src="assets/story_08_midnight_ship.jpg" width="100%" alt="Act 8: Production Ship" />
-      </p>
-      <p><b>01:00 AM &bull; 100% Shipped:</b> Midnight over Dhaka. Monitors flash emerald: <code>ALL TESTS PASSED // SHIPPED TO PRODUCTION 100%</code>. Thumbs up, celebrating and high-fiving Agent Alpha!</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🌌 Act 09: Starlit Horizons</h4>
-      <p align="center">
-        <img src="assets/story_09_rooftop_inspire.jpg" width="100%" alt="Act 9: Starlit Horizons" />
-      </p>
-      <p><b>02:00 AM &bull; Horizon Climax:</b> Standing on the open rooftop terrace overlooking Dhaka under the stars. The <code>[MRI]</code> constellation shines bright: <i>"Something That Inspires."</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">✨ Act 10: Sanctuary Rest</h4>
-      <p align="center">
-        <img src="assets/story_10_peaceful_sleep.jpg" width="100%" alt="Act 10: Sanctuary Rest" />
-      </p>
-      <p><b>03:00 AM &bull; Standing By:</b> Workstation sleeps peacefully at <code>03:00 AM // STANDING BY</code> as Agent Alpha curls up on the desk pad with <code>zzz</code>, the cyan neon shining until dawn.</p>
-    </td>
-    <td width="66%" valign="top" colspan="2">
-      <h4 align="center">📜 Finale: The Visitor Inspirational Outcome Manifesto</h4>
-      <p align="center">
-        <img src="assets/story_manifesto_card.jpg" width="100%" alt="The Visitor Outcome Manifesto" />
-      </p>
-      <p><b>03:30 AM &bull; The Learning Outcome for Builders:</b> Core lessons distilled from the laboratory—Own the whole loop, prove rigor to liberate art, and always engineer for real human hands.</p>
-    </td>
-  </tr>
-</table>
 
 > [!TIP]
 > ### 🌟 The Visitor's Manifesto &amp; Inspirational Learning Outcome
@@ -236,10 +148,6 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
 
 #### AI Systems, Multi-Agent Orchestration &amp; RAG
 
-<div align="center">
-  <img src="assets/cute_agent_lab.gif" width="100%" alt="Cute Autonomous AI Agent Swarm Lab — Alpha Planner, Beta Builder, Gamma Guardian" />
-</div>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,postgres,docker,git&theme=dark" alt="AI & ML Stack" />
 </p>
@@ -267,12 +175,6 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
 </p>
 
 #### Creative Tech, Motion &amp; UI/UX Craft
-
-<div align="center">
-  <a href="https://rupok.org">
-    <img src="assets/rupok_animation_forge.jpg" width="100%" alt="Rupok Studios — Bengal Folklore Animation & Story Forge" />
-  </a>
-</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps,threejs,ae,pr&theme=dark" alt="Design and Creative Tech" />
