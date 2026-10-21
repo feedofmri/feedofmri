@@ -19,7 +19,7 @@
   <a href="https://feedofmri.boraqs.com"><img src="https://img.shields.io/badge/PORTFOLIO-feedofmri.boraqs.com-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Portfolio" /></a>
   <a href="https://boraqs.com"><img src="https://img.shields.io/badge/STUDIO-boraqs.com-0f172a?style=for-the-badge&logo=codepen&logoColor=00f2fe" alt="Boraq" /></a>
   <a href="https://toroongo.com"><img src="https://img.shields.io/badge/MARKETPLACE-toroongo.com-10b981?style=for-the-badge&logo=shopify&logoColor=white" alt="Toroongo" /></a>
-  <a href="https://rupok.org"><img src="https://img.shields.io/badge/ANIMATION-rupok.org-a855f7?style=for-the-badge&logo=render&logoColor=white" alt="Rupok" /></a>
+  <a href="https://readrupok.com"><img src="https://img.shields.io/badge/ANIMATION-readrupok.com-a855f7?style=for-the-badge&logo=render&logoColor=white" alt="Rupok" /></a>
   <a href="assets/Rubayet-Islam-CV.pdf"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD_CV-38bdf8?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" /></a>
 </p>
 
@@ -105,7 +105,7 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
     <td width="33%" valign="top">
       <h4 align="center">🎬 Rupok Studios</h4>
       <p align="center">
-        <a href="https://rupok.org"><img src="https://img.shields.io/badge/STUDIO-rupok.org-a855f7?style=flat-square" alt="Rupok" /></a>
+        <a href="https://readrupok.com"><img src="https://img.shields.io/badge/STUDIO-readrupok.com-a855f7?style=flat-square" alt="Rupok" /></a>
       </p>
       <p><b>Creative Tech &amp; Direction</b><br/>
       Animation and comics studio bringing Bengal’s epic history and mythic folklore to life across 7 original episodic series, headlined by <i>Bansher Kella</i>.</p>
