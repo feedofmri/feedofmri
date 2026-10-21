@@ -224,9 +224,9 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
 | Year | Recognition | Scope / Organization | Category |
 |:---:|:---|:---|:---|
 | **2026** | 🏅 **General Secretary** | AUSTPIC (Programming &amp; Informatics Club) | *Executive Leadership* |
-| **2025** | 🏆 **Learnathon 3.0 Champion (Grand Prize BDT 50k)** | Brain Station 23 PLC | *Flutter Cross-Platform* |
+| **2025** | 🏆 **Learnathon 3.0 Champion** | Brain Station 23 PLC | *Flutter Cross-Platform* |
 | **2025** | 🔬 **AUST Student Research Grant (Co-PI)** | Ahsanullah University &bull; Project L.A.S.T. | *Satellite Mesh &amp; IoT* |
-| **2025** | 🌐 **Web Architect Recognition Crest** | National IUPC 2025 (100+ Volunteers) | *Contest Architecture* |
+| **2025** | 🌐 **Web Architect Recognition** | National IUPC 2025 (100+ Volunteers) | *Contest Architecture* |
 | **2024** | 🥇 **Champion — Carnival 5.0** | AUST CSE Carnival | *UI/UX Interface Design* |
 | **2023** | 🥇 **Champion — Carnival 4.0** | AUST CSE Carnival | *UI/UX Interface Design* |
 | **2024–26**| ⭐ **Top Rated 5.0 / 5.0** | Upwork Worldwide Freelance | *Web &amp; Mobile Architecture* |
