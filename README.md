@@ -107,6 +107,15 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
+### 🚴 The Milestone Journey in Motion `// 2020 ➔ 2027`
+
+<div align="center">
+  <img src="assets/journey_cycle.gif" width="100%" alt="Md. Rubayet Islam — Milestone Journey Cyclist Animation" />
+</div>
+
+<div align="center">
+  <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
+</div>
 
 ### 🧠 Master Skill Matrix &amp; Technologies
 
