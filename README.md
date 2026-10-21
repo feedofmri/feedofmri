@@ -9,7 +9,7 @@
 
 <!-- DYNAMIC ANIMATED TYPING HEADER -->
 <a href="https://feedofmri.boraqs.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%8E%A8+Waving+code+%26+creativity+to+craft+something+that+inspires...;%F0%9F%A4%96+Architecting+autonomous+multi-agent+pipelines+%26+RAG+systems;%F0%9F%8E%AC+Directing+epic+Bengal+folklore+animation+%40+Rupok+Studios;%F0%9F%9B%92+Engineering+zero-commission+commerce+%40+Toroongo.com;%F0%9F%8F%86+Brain+Station+23+Learnathon+3.0+Champion+%26+2%C3%97+UI%2FUX+Champ;%E2%98%95+Converting+chai+%26+mathematical+bounds+into+production+software;%F0%9F%92%A1+If+it+doesn't+spark+awe+or+ship+to+production%2C+why+build+it%3F" alt="Dynamic Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%8E%A8+Waving+code+%26+creativity+to+craft+something+that+inspires...;%F0%9F%A4%96+Architecting+autonomous+multi-agent+pipelines+%26+RAG+systems;%F0%9F%8E%AC+Directing+epic+Bengal+folklore+animation+%40+Rupok;%F0%9F%9B%92+Engineering+zero-commission+commerce+%40+Toroongo.com;%F0%9F%8F%86+Brain+Station+23+Learnathon+3.0+Champion+%26+2%C3%97+UI%2FUX+Champ;%E2%98%95+Converting+chai+%26+mathematical+bounds+into+production+software;%F0%9F%92%A1+If+it+doesn't+spark+awe+or+ship+to+production%2C+why+build+it%3F" alt="Dynamic Typing Header" />
 </a>
 
 <br/>
@@ -46,7 +46,7 @@ mana_source: "Dark Roast Chai + Focused Ambience + Bengal Mythic Epics"
 superpowers:
   - "Designing intentional design systems in Figma, then shipping the code"
   - "Architecting autonomous multi-agent pipelines with formal safety bounds"
-  - "Directing 4K episodic AI animation pipelines at Rupok Studios"
+  - "Directing 4K episodic AI animation pipelines at Rupok"
 current_quest: "Proving certified patch acceptance models & deploying satellite mesh nodes"
 easter_egg: "Can fix a distributed consensus glitch while rendering anime keyframes"
 ```
@@ -103,9 +103,9 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
       <p><code>Laravel</code> &bull; <code>FastAPI</code> &bull; <code>Multi-Agent</code> &bull; <code>MySQL</code></p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🎬 Rupok Studios</h4>
+      <h4 align="center">🎬 Rupok</h4>
       <p align="center">
-        <a href="https://readrupok.com"><img src="https://img.shields.io/badge/STUDIO-readrupok.com-a855f7?style=flat-square" alt="Rupok" /></a>
+        <a href="https://readrupok.com"><img src="https://img.shields.io/badge/RUPOK-readrupok.com-a855f7?style=flat-square" alt="Rupok" /></a>
       </p>
       <p><b>Creative Tech &amp; Direction</b><br/>
       Animation and comics studio bringing Bengal’s epic history and mythic folklore to life across 7 original episodic series, headlined by <i>Bansher Kella</i>.</p>
