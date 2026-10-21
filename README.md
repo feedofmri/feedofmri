@@ -25,7 +25,7 @@
 
 <!-- REALTIME STATUS TELEMETRY -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=feedofmri&label=PROFILE+VISITS&color=00f2fe&style=flat-square" alt="Visits" />
+  <img src="https://hits.sh/github.com/feedofmri.svg?label=PROFILE+VISITS&color=00f2fe&style=flat-square&extraCount=2225" alt="Visits" />
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE%20%2F%2F%20ACTIVE-10b981?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD%20[GMT%2B6]-00f2fe?style=flat-square&logo=google-maps&logoColor=black" alt="Location" />
   <img src="https://img.shields.io/badge/UPWORK-5.0%20%E2%98%85%20TOP%20RATED-14a800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" />
