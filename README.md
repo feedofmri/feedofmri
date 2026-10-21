@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- OFFICIAL BRANDING ANIMATED MOTION BANNER -->
-<a href="https://feedofmri.boraq.io">
+<a href="https://feedofmri.boraqs.com">
   <img src="assets/personal_banner_motion.gif" width="100%" alt="Md. Rubayet Islam — Waving Code & Creativity, Something That Inspires" />
 </a>
 
 <br/>
 
 <!-- DYNAMIC ANIMATED TYPING HEADER -->
-<a href="https://feedofmri.boraq.io">
+<a href="https://feedofmri.boraqs.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%8E%A8+Waving+code+%26+creativity+to+craft+something+that+inspires...;%F0%9F%A4%96+Architecting+autonomous+multi-agent+pipelines+%26+RAG+systems;%F0%9F%8E%AC+Directing+epic+Bengal+folklore+animation+%40+Rupok+Studios;%F0%9F%9B%92+Engineering+zero-commission+commerce+%40+Toroongo.com;%F0%9F%8F%86+Brain+Station+23+Learnathon+3.0+Champion+%26+2%C3%97+UI%2FUX+Champ;%E2%98%95+Converting+chai+%26+mathematical+bounds+into+production+software;%F0%9F%92%A1+If+it+doesn't+spark+awe+or+ship+to+production%2C+why+build+it%3F" alt="Dynamic Typing Header" />
 </a>
 
@@ -16,8 +16,8 @@
 
 <!-- OFFICIAL VENTURE & IDENTITY BADGES -->
 <p align="center">
-  <a href="https://feedofmri.boraq.io"><img src="https://img.shields.io/badge/PORTFOLIO-feedofmri.boraq.io-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Portfolio" /></a>
-  <a href="https://boraq.io"><img src="https://img.shields.io/badge/STUDIO-boraq.io-0f172a?style=for-the-badge&logo=codepen&logoColor=00f2fe" alt="Boraq" /></a>
+  <a href="https://feedofmri.boraqs.com"><img src="https://img.shields.io/badge/PORTFOLIO-feedofmri.boraqs.com-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Portfolio" /></a>
+  <a href="https://boraqs.com"><img src="https://img.shields.io/badge/STUDIO-boraqs.com-0f172a?style=for-the-badge&logo=codepen&logoColor=00f2fe" alt="Boraq" /></a>
   <a href="https://toroongo.com"><img src="https://img.shields.io/badge/MARKETPLACE-toroongo.com-10b981?style=for-the-badge&logo=shopify&logoColor=white" alt="Toroongo" /></a>
   <a href="https://rupok.org"><img src="https://img.shields.io/badge/ANIMATION-rupok.org-a855f7?style=for-the-badge&logo=render&logoColor=white" alt="Rupok" /></a>
   <a href="assets/Rubayet-Islam-CV.pdf"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD_CV-38bdf8?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" /></a>
@@ -58,7 +58,7 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
 <h3 align="center">🌌 The Creative Odyssey</h3>
 
 <div align="center">
-  <a href="https://feedofmri.boraq.io">
+  <a href="https://feedofmri.boraqs.com">
     <img src="assets/actual_desk_story_loop.gif" width="100%" alt="Md. Rubayet Islam — Actual Desk 24-Hour Creative Odyssey" />
   </a>
 </div>
@@ -87,7 +87,7 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
     <td width="33%" valign="top">
       <h4 align="center">⚡ Boraq Studio</h4>
       <p align="center">
-        <a href="https://boraq.io"><img src="https://img.shields.io/badge/STUDIO-boraq.io-00f2fe?style=flat-square" alt="Boraq" /></a>
+        <a href="https://boraqs.com"><img src="https://img.shields.io/badge/STUDIO-boraqs.com-00f2fe?style=flat-square" alt="Boraq" /></a>
       </p>
       <p><b>Lead Software Architect &amp; Founder</b><br/>
       High-craft software studio designing, engineering, and deploying scalable full-stack web, mobile, and autonomous AI systems for international clients and in-house venture ideas.</p>
@@ -263,7 +263,7 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
 <div align="center">
 
 <p>
-  <a href="https://feedofmri.boraq.io"><img src="https://img.shields.io/badge/Website-feedofmri.boraq.io-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://feedofmri.boraqs.com"><img src="https://img.shields.io/badge/Website-feedofmri.boraqs.com-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/feedofmri"><img src="https://img.shields.io/badge/LinkedIn-in%2Ffeedofmri-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/feedofmri"><img src="https://img.shields.io/badge/X-@feedofmri-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://youtube.com/@feedofmri"><img src="https://img.shields.io/badge/YouTube-@feedofmri-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
