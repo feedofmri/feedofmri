@@ -107,29 +107,6 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🎬 Rupok Studios — Original AI Animation Slate
-
-<div align="center">
-  <p>
-    <a href="https://rupok.org">
-      <img src="assets/rupok-logo-white.png" height="38" alt="Rupok Studio" />
-    </a>
-  </p>
-  <p>
-    <sub><i>Resurrecting Bengal&rsquo;s historic battles, maritime sagas, and delta legends across 7 original episodic animation series.</i></sub>
-  </p>
-</div>
-
-| Series | Logline &amp; Creative Premise | Scope | Status |
-|:---|:---|:---:|:---:|
-| ⚔️ **Bansher Kella** | Titumir and Ghulam Masum rally Bengali villagers to build an organic bamboo fortress that defied British imperial artillery. | *6 Episodes &bull; 18 Mins* | `In Production` |
-| 🌊 **The River Wolves** | Isa Khan unites the Baro-Bhuyan chieftains to outmaneuver the Mughal Empire’s grand fleet on Bengal’s raging monsoon river channels. | *20 Episodes &bull; 2 Seasons* | `In Development` |
-| 🗡️ **The Sultan’s Blade** | In 1342, Iliyas Shah unites the delta into one kingdom, holding the frontier against Delhi’s 90,000-strong army and war elephants. | *8 Episodes &bull; 24 Mins* | `In Development` |
-| 🐅 **The Tiger’s Pir** | Gazi Pir journeys deep into the Sundarbans wilderness to confront the spirit Dakshin Ray, riding out atop a Royal Bengal Tiger. | *5 Episodes &bull; 15 Mins* | `In Development` |
-
-<div align="center">
-  <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
-</div>
 
 ### 🧠 Master Skill Matrix &amp; Technologies
 
