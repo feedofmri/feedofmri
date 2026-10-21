@@ -55,47 +55,70 @@ easter_egg: "Can fix a distributed consensus glitch while rendering anime keyfra
   <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🏢 The Creative Sanctum &amp; Daily Routine `// Real Desk &bull; 1-Minute Creative Story Loop`
+### 🏢 The Creative Sanctum &amp; 24-Hour Cycle `// Real Desk &bull; 7-Act Creative Odyssey`
 
 <div align="center">
   <a href="https://feedofmri.boraq.io">
-    <img src="assets/actual_desk_story_loop.gif" width="100%" alt="Md. Rubayet Islam — Actual Desk 1-Minute Creative Routine & Story Loop" />
+    <img src="assets/actual_desk_story_loop.gif" width="100%" alt="Md. Rubayet Islam — Actual Desk 7-Act 24-Hour Creative Odyssey & Story Loop" />
   </a>
 </div>
 
 <br/>
 
-#### ⏳ The 4 Acts of Creation `// From Mathematical Bound to Production Ship`
+#### ⏳ The 7 Acts of Creation `// A Day in the Life of a Creative Technologist`
 
 <table>
   <tr>
     <td width="25%" valign="top">
-      <h4 align="center">⚡ Act 01: Seated Flow</h4>
+      <h4 align="center">🌅 Act 01: Dawn Arrival</h4>
       <p align="center">
-        <img src="assets/story_desk_act1.jpg" width="100%" alt="Act 1" />
+        <img src="assets/story_desk_act1_dawn.jpg" width="100%" alt="Act 1: Dawn Arrival" />
       </p>
-      <p><b>Waking the Stack:</b> Headphones on, dark roast chai steaming, mechanical keyboard clacking. Orchestrating autonomous multi-agent pipelines and reactive frontends for Boraq &amp; Toroongo.</p>
+      <p><b>07:00 AM &bull; Morning Spark:</b> Golden sunlight streams into the room. Entering with fresh dark roast chai, pulling up the ergonomic mesh chair. The workstation wakes: <code>BOOTING MRI KERNEL // DHAKA 07:00 AM</code> as Agent Alpha rubs its eyes awake.</p>
     </td>
     <td width="25%" valign="top">
-      <h4 align="center">🔬 Act 02: Standing Research</h4>
+      <h4 align="center">⚡ Act 02: Deep Flow</h4>
       <p align="center">
-        <img src="assets/story_desk_act2.jpg" width="100%" alt="Act 2" />
+        <img src="assets/story_desk_act2_code.jpg" width="100%" alt="Act 2: Deep Flow" />
       </p>
-      <p><b>Rigorous Science:</b> Standing up from the ergonomic mesh chair, pen in hand. Deriving formal statistical safety bounds and conformal prediction models for Certified Patch Acceptance.</p>
+      <p><b>09:30 AM &bull; High Velocity:</b> Headphones on, clacking mechanical keyboard. Orchestrating autonomous multi-agent pipelines, LangChain chains, and pgvector embeddings for Boraq and Toroongo.</p>
     </td>
     <td width="25%" valign="top">
-      <h4 align="center">🎨 Act 03: The Chai Spark</h4>
+      <h4 align="center">🔬 Act 03: Standing Research</h4>
       <p align="center">
-        <img src="assets/story_desk_act3.jpg" width="100%" alt="Act 3" />
+        <img src="assets/story_desk_act3_research.jpg" width="100%" alt="Act 3: Standing Research" />
       </p>
-      <p><b>Creative Synthesis:</b> Pacing with hot chai. The "Aha!" moment connects deep distributed systems with Bengal folklore storyboards (<i>Bansher Kella</i>) at Rupok Studios.</p>
+      <p><b>01:30 PM &bull; Formal Science:</b> Stepping up from the chair with research binder in hand. Deriving statistical safety bounds and conformal prediction distributions for <i>Certified Patch Acceptance</i>.</p>
     </td>
     <td width="25%" valign="top">
-      <h4 align="center">🚀 Act 04: Midnight Victory</h4>
+      <h4 align="center">💡 Act 04: The Chai Spark</h4>
       <p align="center">
-        <img src="assets/story_desk_act4.jpg" width="100%" alt="Act 4" />
+        <img src="assets/story_desk_act4_eureka.jpg" width="100%" alt="Act 4: The Chai Spark" />
       </p>
-      <p><b>Shipping to Prod:</b> Back in the zone under the neon <code>[MRI]</code> glow. All unit &amp; regression tests pass 100%. Code deployed to live production. High-five with Agent Alpha!</p>
+      <p><b>06:45 PM &bull; The Breakthrough:</b> Pacing with hot chai at twilight. The "Aha!" moment connects distributed systems with Bengal folklore storyboards (<i>Bansher Kella</i>) at Rupok Studios.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🛰️ Act 05: Satellite Mesh Transmission</h4>
+      <p align="center">
+        <img src="assets/story_desk_act5_satellite.jpg" width="100%" alt="Act 5: Satellite Mesh" />
+      </p>
+      <p><b>09:30 PM &bull; Deep-Tech Orbital Link:</b> Leaning over hardware breadboards and LoRa transceivers for <i>Project L.A.S.T.</i> Tracking a LEO satellite pass over the Bay of Bengal, beaming emergency survival packets through cyclone blackouts.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🚀 Act 06: Midnight Victory</h4>
+      <p align="center">
+        <img src="assets/story_desk_act6_victory.jpg" width="100%" alt="Act 6: Midnight Victory" />
+      </p>
+      <p><b>01:00 AM &bull; 100% Shipped:</b> Midnight over Dhaka. Dual monitors flash emerald green: <code>ALL TESTS PASSED // SHIPPED TO PRODUCTION 100%</code>. Grinning proudly and high-fiving Agent Alpha!</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🌌 Act 07: Silent Sanctuary</h4>
+      <p align="center">
+        <img src="assets/story_desk_act7_sleep.jpg" width="100%" alt="Act 7: Silent Sanctuary" />
+      </p>
+      <p><b>02:30 AM &bull; Guardian Sleep:</b> Cozy hoodie draped over the chair. Monitor sleeps at <code>02:30 AM // STANDING BY</code> while Agent Alpha snoozes on the desk pad. The neon <code>[MRI]</code> sign glows peacefully until dawn.</p>
     </td>
   </tr>
 </table>
