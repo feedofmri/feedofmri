@@ -9,7 +9,7 @@
 
 <!-- DYNAMIC ANIMATED TYPING HEADER -->
 <a href="https://feedofmri.boraq.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=45&lines=AI+Systems+Architect+%7C+Autonomous+Agent+Engineer;Lead+Software+Architect+%40+Boraq+(boraq.io);Founder+%40+Toroongo+(AI+Marketplace);Creative+Tech+Lead+%40+Rupok+Studio+(rupok.org);Brain+Station+23+Learnathon+3.0+Champion;Co-PI+%40+Project+L.A.S.T.+(Satellite+LoRa+Mesh);Top-Rated+5.0+Full-Stack+Architect+on+Upwork" alt="Dynamic Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%8E%A8+Waving+code+%26+creativity+to+craft+something+that+inspires...;%F0%9F%A4%96+Architecting+autonomous+multi-agent+pipelines+%26+RAG+systems;%F0%9F%8E%AC+Directing+epic+Bengal+folklore+animation+%40+Rupok+Studios;%F0%9F%9B%92+Engineering+zero-commission+commerce+%40+Toroongo.com;%F0%9F%8F%86+Brain+Station+23+Learnathon+3.0+Champion+%26+2%C3%97+UI%2FUX+Champ;%E2%98%95+Converting+chai+%26+mathematical+bounds+into+production+software;%F0%9F%92%A1+If+it+doesn't+spark+awe+or+ship+to+production%2C+why+build+it%3F" alt="Dynamic Typing Header" />
 </a>
 
 <br/>
@@ -31,40 +31,31 @@
   <img src="https://img.shields.io/badge/UPWORK-5.0%20%E2%98%85%20TOP%20RATED-14a800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" />
 </p>
 
-<!-- ANIMATED CYBER LASER DIVIDER -->
-<img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
+<!-- CALM SMOOTH ANIMATED DIVIDER -->
+<img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 
 </div>
 
-### 📡 System Diagnostics `// @feedofmri`
+### 🧬 Creative Technologist &amp; Architect DNA
 
-```jsonc
-{
-  "architect": "Md. Rubayet Islam",
-  "alias": "feedofmri",
-  "motto": "Waving Code & Creativity, Something That Inspires",
-  "roles": ["AI Systems Architect", "Lead Software Architect", "Creative Tech Founder"],
-  "headquarters": "Dhaka, Bangladesh [GMT+6] (Engineering Globally)",
-  "education": "B.Sc. in Computer Science & Engineering @ AUST (2023 – 2027)",
-  "active_specializations": [
-    "Autonomous Multi-Agent Orchestration & Enterprise LLM Workflows",
-    "Production RAG Pipelines & Semantic Vector Embeddings (pgvector)",
-    "Formal Statistical Safety Bounds for AI Code Repair (Undergrad Thesis)",
-    "Delay-Tolerant Satellite LoRa Mesh Networks for Cyclone Relief (Project L.A.S.T.)"
-  ],
-  "studios_and_ventures": [
-    "Boraq (boraq.io) — Full-stack software architecture & venture engineering studio",
-    "Toroongo (toroongo.com) — Zero-commission multivendor marketplace with AI agents",
-    "Rupok (rupok.org) — AI animation & comics studio resurrecting Bengal's folklore"
-  ]
-}
+```yaml
+# ~/feedofmri/creative_dna.yaml
+identity: "Md. Rubayet Islam (@feedofmri)"
+mantra: "Waving Code & Creativity, Something That Inspires"
+mana_source: "Dark Roast Chai + Focused Ambience + Bengal Mythic Epics"
+superpowers:
+  - "Designing intentional design systems in Figma, then shipping the code"
+  - "Architecting autonomous multi-agent pipelines with formal safety bounds"
+  - "Directing 4K episodic AI animation pipelines at Rupok Studios"
+current_quest: "Proving certified patch acceptance models & deploying satellite mesh nodes"
+easter_egg: "Can fix a distributed consensus glitch while rendering anime keyframes"
 ```
 
 <div align="center">
-  <img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
+  <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🚀 Production Ecosystem & Ventures
+### 🚀 Production Ecosystem &amp; Live Ventures
 
 <table>
   <tr>
@@ -73,8 +64,8 @@
       <p align="center">
         <a href="https://boraq.io"><img src="https://img.shields.io/badge/STUDIO-boraq.io-00f2fe?style=flat-square" alt="Boraq" /></a>
       </p>
-      <p><b>Lead Software Architect & Founder</b><br/>
-      High-craft software studio designing, engineering, and deploying scalable full-stack web, mobile, and autonomous AI systems for international clients and in-house ventures.</p>
+      <p><b>Lead Software Architect &amp; Founder</b><br/>
+      High-craft software studio designing, engineering, and deploying scalable full-stack web, mobile, and autonomous AI systems for international clients and in-house venture ideas.</p>
       <p><code>React</code> &bull; <code>Node.js</code> &bull; <code>Flutter</code> &bull; <code>AI Agents</code></p>
     </td>
     <td width="33%" valign="top">
@@ -82,7 +73,7 @@
       <p align="center">
         <a href="https://toroongo.com"><img src="https://img.shields.io/badge/MARKETPLACE-toroongo.com-10b981?style=flat-square" alt="Toroongo" /></a>
       </p>
-      <p><b>AI Systems Architect & Founder</b><br/>
+      <p><b>AI Systems Architect &amp; Founder</b><br/>
       Zero-commission multivendor marketplace connecting local merchants directly with buyers, powered by autonomous customer support agents and smart inventory alerts.</p>
       <p><code>Laravel</code> &bull; <code>FastAPI</code> &bull; <code>Multi-Agent</code> &bull; <code>MySQL</code></p>
     </td>
@@ -91,7 +82,7 @@
       <p align="center">
         <a href="https://rupok.org"><img src="https://img.shields.io/badge/STUDIO-rupok.org-a855f7?style=flat-square" alt="Rupok" /></a>
       </p>
-      <p><b>Creative Tech & Direction</b><br/>
+      <p><b>Creative Tech &amp; Direction</b><br/>
       Animation and comics studio bringing Bengal’s epic history and mythic folklore to life across 7 original episodic series, headlined by <i>Bansher Kella</i>.</p>
       <p><code>AI Animation</code> &bull; <code>Three.js</code> &bull; <code>Story Pipelines</code></p>
     </td>
@@ -113,14 +104,38 @@
 </table>
 
 <div align="center">
-  <img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
+  <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🧠 Master Skill Matrix & Technologies
+### 🎬 Rupok Studios — Original AI Animation Slate
+
+<div align="center">
+  <p>
+    <a href="https://rupok.org">
+      <img src="assets/rupok-logo-white.png" height="38" alt="Rupok Studio" />
+    </a>
+  </p>
+  <p>
+    <sub><i>Resurrecting Bengal&rsquo;s historic battles, maritime sagas, and delta legends across 7 original episodic animation series.</i></sub>
+  </p>
+</div>
+
+| Series | Logline &amp; Creative Premise | Scope | Status |
+|:---|:---|:---:|:---:|
+| ⚔️ **Bansher Kella** | Titumir and Ghulam Masum rally Bengali villagers to build an organic bamboo fortress that defied British imperial artillery. | *6 Episodes &bull; 18 Mins* | `In Production` |
+| 🌊 **The River Wolves** | Isa Khan unites the Baro-Bhuyan chieftains to outmaneuver the Mughal Empire’s grand fleet on Bengal’s raging monsoon river channels. | *20 Episodes &bull; 2 Seasons* | `In Development` |
+| 🗡️ **The Sultan’s Blade** | In 1342, Iliyas Shah unites the delta into one kingdom, holding the frontier against Delhi’s 90,000-strong army and war elephants. | *8 Episodes &bull; 24 Mins* | `In Development` |
+| 🐅 **The Tiger’s Pir** | Gazi Pir journeys deep into the Sundarbans wilderness to confront the spirit Dakshin Ray, riding out atop a Royal Bengal Tiger. | *5 Episodes &bull; 15 Mins* | `In Development` |
+
+<div align="center">
+  <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
+</div>
+
+### 🧠 Master Skill Matrix &amp; Technologies
 
 <div align="center">
 
-#### AI Systems, Autonomous Agents & Machine Learning
+#### AI Systems, Multi-Agent Orchestration &amp; RAG
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,postgres,docker,git&theme=dark" alt="AI & ML Stack" />
 </p>
@@ -132,22 +147,22 @@
   <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-7928CA?style=flat-square&logo=codementor&logoColor=white" alt="Prompt Engineering" />
 </p>
 
-#### Full-Stack Platforms & Mobile Development
+#### Full-Stack Platforms &amp; Mobile Ecosystem
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,express,laravel,supabase,firebase&theme=dark" alt="Full-Stack Stack" />
 </p>
 
-#### Core Languages & Systems Engineering
+#### Core Languages &amp; Systems Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,py,dart,js,ts,bash&theme=dark" alt="Languages" />
 </p>
 
-#### Databases, DevOps & Cloud Infrastructure
+#### Databases, DevOps &amp; Cloud Infrastructure
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,docker,linux,nginx,postman&theme=dark" alt="Databases and DevOps" />
 </p>
 
-#### Creative Tech, Motion & UI/UX Design
+#### Creative Tech, Motion &amp; UI/UX Craft
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps,threejs,ae,pr&theme=dark" alt="Design and Creative Tech" />
 </p>
@@ -155,10 +170,10 @@
 </div>
 
 <div align="center">
-  <img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
+  <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 📊 Real-Time GitHub Analytics
+### 📊 Real-Time GitHub Analytics &amp; Activity
 
 <div align="center">
 
@@ -188,39 +203,37 @@
 </div>
 
 <div align="center">
-  <img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
+  <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🏆 Honors & Milestones
+### 🏆 Honors &amp; Milestones
 
 | Year | Recognition | Scope / Organization | Category |
 |:---:|:---|:---|:---|
 | **2026** | 🛡️ **Fintechathon Finalist (Topic F: Agent Wallet)** | PBCSF Fintechathon 2026 | *Autonomous AI Wallets* |
 | **2025** | 🏆 **Learnathon 3.0 Champion (Grand Prize BDT 50k)** | Brain Station 23 PLC | *Flutter Cross-Platform* |
-| **2025** | 🔬 **AUST Student Research Grant (Co-PI)** | Ahsanullah University &bull; Project L.A.S.T. | *Satellite Mesh & IoT* |
+| **2025** | 🔬 **AUST Student Research Grant (Co-PI)** | Ahsanullah University &bull; Project L.A.S.T. | *Satellite Mesh &amp; IoT* |
 | **2025** | 🌐 **Web Architect Recognition Crest** | National IUPC 2025 (100+ Volunteers) | *Contest Architecture* |
 | **2024** | 🥇 **Champion — Carnival 5.0** | AUST CSE Carnival | *UI/UX Interface Design* |
-| **2024** | 🏅 **General Secretary** | AUSTPIC (Programming & Informatics Club) | *Executive Leadership* |
+| **2024** | 🏅 **General Secretary** | AUSTPIC (Programming &amp; Informatics Club) | *Executive Leadership* |
 | **2023** | 🥇 **Champion — Carnival 4.0** | AUST CSE Carnival | *UI/UX Interface Design* |
-| **2024–26**| ⭐ **Top Rated 5.0 / 5.0** | Upwork Worldwide Freelance | *Web & Mobile Architecture* |
+| **2024–26**| ⭐ **Top Rated 5.0 / 5.0** | Upwork Worldwide Freelance | *Web &amp; Mobile Architecture* |
 
 ---
 
 <details>
-<summary><b>🎬 Expand to explore Original AI Animation Slate (Rupok Studios)</b></summary>
+<summary><b>🕹️ Press to Unlock Secret Developer Quests &amp; Easter Eggs!</b></summary>
 <br/>
 
-| Title | Logline & Context | Format | Status |
-|:---|:---|:---:|:---:|
-| ⚔️ **Bansher Kella** | Titumir and Ghulam Masum rally Bengali villagers to build an organic bamboo fortress that defied British imperial artillery. | *6 Episodes &bull; 18 Mins* | `In Production` |
-| 🌊 **The River Wolves** | Isa Khan unites the Baro-Bhuyan chieftains to outmaneuver the Mughal Empire’s grand fleet on Bengal’s monsoon channels. | *20 Episodes &bull; 2 Seasons* | `In Development` |
-| 🗡️ **The Sultan’s Blade** | In 1342, Iliyas Shah unites the delta into one kingdom, holding the frontier against Delhi’s 90,000-strong army. | *8 Episodes &bull; 24 Mins* | `In Development` |
-| 🐅 **The Tiger’s Pir** | Gazi Pir journeys deep into the Sundarbans wilderness to confront Dakshin Ray, riding out atop a Royal Bengal Tiger. | *5 Episodes &bull; 15 Mins* | `In Development` |
+* 🎯 **Quest 01 &mdash; The Bug Hunter**: Find a statistical flaw in our certified patch acceptance theorem. *Reward: Unlimited chai on me.*
+* 🐅 **Quest 02 &mdash; The Bengal Lorekeeper**: Can you name the primary river channel where Isa Khan defeated the Mughal imperial fleet? *(Hint: It's in Season 1 of The River Wolves).*
+* ⚡ **Fun Fact**: I design the Figma tokens, write the Solidity/Python backend, configure the Docker deployment, and animate the launch trailer myself. Nothing gets lost in translation.
+* 🍵 **Daily Fuel**: Earl Grey tea, deep focus playlists, and an unhealthy curiosity for distributed consensus edge cases.
 
 </details>
 
 <details>
-<summary><b>⚡ Architectural Philosophy & Core Principles</b></summary>
+<summary><b>⚡ Architectural Philosophy &amp; Core Principles</b></summary>
 <br/>
 
 1. **Own the whole loop**: When you understand the design, the database schema, and the deployment script, nothing gets lost in translation between teams.
@@ -230,10 +243,10 @@
 </details>
 
 <div align="center">
-  <img src="assets/cyber_divider.gif" width="100%" alt="Cyber Laser Divider" />
+  <img src="assets/calm_divider.svg" width="100%" alt="Divider" />
 </div>
 
-### 🌐 Connect & Let's Build Something Extraordinary
+### 🌐 Connect &amp; Let's Build Something Extraordinary
 
 <div align="center">
 
