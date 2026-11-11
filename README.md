@@ -17,7 +17,7 @@
 <!-- OFFICIAL VENTURE & IDENTITY BADGES -->
 <p align="center">
   <a href="https://feedofmri.boraqs.com"><img src="https://img.shields.io/badge/PORTFOLIO-feedofmri.boraqs.com-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Portfolio" /></a>
-  <a href="https://boraqs.com"><img src="https://img.shields.io/badge/STUDIO-boraqs.com-0f172a?style=for-the-badge&logo=codepen&logoColor=00f2fe" alt="Boraq" /></a>
+  <a href="https://boraq.io"><img src="https://img.shields.io/badge/STUDIO-boraq.io-0f172a?style=for-the-badge&logo=codepen&logoColor=00f2fe" alt="Boraq" /></a>
   <a href="https://toroongo.com"><img src="https://img.shields.io/badge/MARKETPLACE-toroongo.com-10b981?style=for-the-badge&logo=shopify&logoColor=white" alt="Toroongo" /></a>
   <a href="https://readrupok.com"><img src="https://img.shields.io/badge/ANIMATION-readrupok.com-a855f7?style=for-the-badge&logo=render&logoColor=white" alt="Rupok" /></a>
   <a href="assets/Rubayet-Islam-CV.pdf"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD_CV-38bdf8?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" /></a>
